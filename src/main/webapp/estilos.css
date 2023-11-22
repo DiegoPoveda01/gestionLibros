@@ -1,0 +1,30 @@
+.encabezado{
+    font-size: 300%;
+    text-align: center;
+    font-family: "Arial Black"
+}
+.centrado{
+    text-align: center;
+    align-content: center;
+    font-family: "Arial";
+    font-size: 150%
+}
+.subtitulo{
+    text-align: center;
+    font-family: "Arial Narrow";
+    font-size: 200%
+}
+.boton{
+    height: 5%;
+    width: 15%;
+    color: darkgray;
+    font-size: 100%;
+    align-content: center
+}
+.campoTexto{
+    width: 10%;
+    height: 3%
+}
+table {
+    margin: 0 auto;
+}
